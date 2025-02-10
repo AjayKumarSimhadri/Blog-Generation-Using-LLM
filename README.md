@@ -9,11 +9,15 @@ This repository provides a guide and code to build a Blog Generation application
 
 *   **Introduction to Llama 2:** Understanding [Llama 2](https://github.com/meta-llama) as an open-source LLM, and its potential for commercial and research applications.
 *   **Exploring Llama 2's Features:**  Learning about Llama 2's different model sizes, training data, context length, and performance capabilities.
-*   **Research Paper Insights:**  Understanding the key aspects of a typical LLM research paper, including training methodology, architecture, hardware, and ethical considerations.
+*   **Research Paper Insights:**  Understanding the key aspects of a typical LLM [research paper](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/), including training methodology, [architecture](https://github.com/meta-llama/llama-stack), hardware, and ethical considerations.
 *   **Downloading and Implementing Llama 2:**  Guidance on how to access and download the [Llama 2 model](https://github.com/meta-llama/llama-models?tab=readme-ov-file#download).
 *   **Building a Blog Generation App:**  Creating a hands-on, end-to-end LLM project that leverages Llama 2 to generate blog content.
 
 This repository offers code examples, Jupyter notebooks or VScode for experimentation, and setup instructions to help you build this project and explore Llama 2 further.
+
+**What is LLM?** (Large Language Model)
+
+An [LLM](https://www.cloudflare.com/learning/ai/what-is-large-language-model/) is a powerful type of artificial intelligence trained on massive amounts of [text data](https://ai.meta.com/blog/large-language-model-llama-meta-ai/). It can understand and generate human-like text for various tasks like writing articles, answering questions, and summarizing information.  Think of it as the AI engine that powers applications that need to understand and create text.
 
 **Key Topics Covered:**
 
