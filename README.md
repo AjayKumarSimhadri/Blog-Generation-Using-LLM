@@ -7,10 +7,10 @@ This repository demonstrates how to use Llama 2, an open-source Large Language M
 
 This repository provides a guide and code to build a Blog Generation application using Llama 2. The project will walk you through:
 
-*   **Introduction to Llama 2:** Understanding Llama 2 as an open-source LLM, and its potential for commercial and research applications.
+*   **Introduction to Llama 2:** Understanding [Llama 2](https://github.com/meta-llama) as an open-source LLM, and its potential for commercial and research applications.
 *   **Exploring Llama 2's Features:**  Learning about Llama 2's different model sizes, training data, context length, and performance capabilities.
 *   **Research Paper Insights:**  Understanding the key aspects of a typical LLM research paper, including training methodology, architecture, hardware, and ethical considerations.
-*   **Downloading and Implementing Llama 2:**  Guidance on how to access and download the Llama 2 model.
+*   **Downloading and Implementing Llama 2:**  Guidance on how to access and download the [Llama 2 model](https://github.com/meta-llama/llama-models?tab=readme-ov-file#download).
 *   **Building a Blog Generation App:**  Creating a hands-on, end-to-end LLM project that leverages Llama 2 to generate blog content.
 
 This repository offers code examples, Jupyter notebooks or VScode for experimentation, and setup instructions to help you build this project and explore Llama 2 further.
@@ -28,7 +28,7 @@ This repository offers code examples, Jupyter notebooks or VScode for experiment
 
 *   `README.md`: You are here! Provides an overview of the project and repository.
 *   `code/`: Contains Python scripts and source code for the Blog Generation application.
-*   `exploration/`: Contains files for exploring Llama 2, analyzing research paper concepts, and potentially for model experimentation and prototyping. These might include Python scripts, VS Code (if used), or other files used for experimentation and analysis.
+*   `exploration/`: Contains files for exploring Llama 2, [analyzing research paper concepts](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/), and potentially for model experimentation and prototyping. These might include Python scripts, VS Code (if used), or other files used for experimentation and analysis.
 *   `data/`:  This may contain example data or instructions on where to obtain relevant datasets if needed for the project.
 *   `requirements.txt`: Lists the Python dependencies required to run the project.
 
@@ -38,9 +38,9 @@ This repository offers code examples, Jupyter notebooks or VScode for experiment
 
 *   **Python 3.7+**
 *   **pip** (Python package installer)
-*   **Access to Llama 2 models:** You need to request access to Llama 2 through the Meta website and/or utilize it via Hugging Face.
+*   **Access to Llama 2 models:** You need to [request access](https://www.llama.com/llama-downloads/) to Llama 2 through the Meta website and/or utilize it via Hugging Face.
     *   **Meta Website:** Visit the official Meta Llama 2 website and follow the instructions to request access.
-    *   **Hugging Face:**  Llama 2 models are available on the Hugging Face Hub. You'll need a Hugging Face account and may need to accept the model terms to access them.
+    *   **Hugging Face:**  Llama 2 [models](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main) are available on the Hugging Face Hub. You'll need a Hugging Face account and may need to accept the model terms to access them.
 *   **(Optional, but Recommended for larger models):** A GPU (NVIDIA) is highly recommended for running larger Llama 2 models efficiently, especially the 70B parameter version.  Smaller models (7B, 13B) can be run on CPUs, but performance will be slower.
 
 **Installation:**
@@ -82,4 +82,4 @@ You can obtain Llama 2 models in two main ways:
 Instructions on how to run the `app.py` script (or equivalent) will be provided in the `code/` directory's README or within the script itself. To run the Streamlit application, use the following command in your terminal or command prompt:
 
 ```bash
-streamlit run D:\Code\Project Langchain\Blog Generation LLm App\app.py
+D:\Code\Project Langchain\Blog Generation LLm App>streamlit run app.py
