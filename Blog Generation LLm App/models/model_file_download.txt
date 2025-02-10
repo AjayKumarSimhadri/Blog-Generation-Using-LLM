@@ -1,0 +1,5 @@
+Model File is not uploaded in this repo, please go through the link below mention and download and use it ('https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main')
+
+For better understanding download the Refernce link from META ('https://www.llama.com/llama-downloads/')
+
+
