@@ -75,7 +75,7 @@ You can obtain Llama 2 models in two main ways:
 2.  **Hugging Face Hub:**
     *   Visit the Hugging Face Hub ([https://huggingface.co/meta-llama](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main)) and find the Llama 2 models.
     *   You may need to request access and accept the model terms.
-    *   Use libraries like `transformers` from Hugging Face to easily load and use Llama 2 models in your code.  (Example code will be provided in the `code/` directory or `notebooks/`).
+    *   Use libraries like `ctransformers` from Hugging Face to easily load and use Llama 2 models in your code.  (Example code will be provided in the `code/` directory or `notebooks/`).
 
 **Running the Blog Generation App:**
 
