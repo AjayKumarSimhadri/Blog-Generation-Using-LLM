@@ -77,7 +77,7 @@ You can obtain Llama 2 models in two main ways:
     *   You may need to configure your project to load the model weights from your local system.
 
 2.  **Hugging Face Hub:**
-    *   Visit the Hugging Face Hub ([https://huggingface.co/meta-llama](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main)) and find the Llama 2 models.
+    *   Visit the Hugging Face Hub [https://huggingface.co/TheBloke](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main) and find the Llama 2 models.
     *   You may need to request access and accept the model terms.
     *   Use libraries like `ctransformers` from Hugging Face to easily load and use Llama 2 models in your code.  (Example code will be provided in the `code/` directory or `notebooks/`).
 
